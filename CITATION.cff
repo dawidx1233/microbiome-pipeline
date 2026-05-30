@@ -28,11 +28,11 @@ keywords:
 authors:
   - family-names: "Traczuk"
     given-names: "Lena"
-    email: "lena@example.com"
+    email: "lenatraczuk4@gmail.com"
   - family-names: "Fleischer"
     given-names: "Dawid"
     orcid: "https://orcid.org/0000-0000-0000-0000"
-    email: "lenatraczuk4@gmail.com"
+    email: "dawidfleischer6@gmail.com"
 references:
   - type: article
     title: "Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2"
